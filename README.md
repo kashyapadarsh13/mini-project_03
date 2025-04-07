@@ -1,5 +1,8 @@
 # mini-project_03
 LIVE CHARACTER COUNTER....
+
+link for the website : https://kashyapadarsh13.github.io/mini-project_03/
+
 ![image](https://github.com/user-attachments/assets/a089835f-a644-45b7-86cb-ca3a55a64ec5)
 
 **IF THE CHARACTER LIMIT IS REACHED**
